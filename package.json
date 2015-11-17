@@ -1,0 +1,24 @@
+{
+  "name": "event-fb",
+  "version": "0.1.0",
+  "description": "Crawl event data from facebook and allevents.in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylove142/event-fb.git"
+  },
+  "keywords": [
+    "event",
+    "facebook",
+    "fb"
+  ],
+  "author": "boylove142",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylove142/event-fb/issues"
+  },
+  "homepage": "https://github.com/boylove142/event-fb#readme"
+}
